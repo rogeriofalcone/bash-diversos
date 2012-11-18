@@ -1,4 +1,4 @@
-PassPostgreSQL
-==============
+Minhas coleção de scripts.
+==========================
 
-Script para criar a senha inicial do PostgreSQL.
+Minha coleção de scripts, que utilizo para automatização de processos gerais, seja em redes, servidores...
