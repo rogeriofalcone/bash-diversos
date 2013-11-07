@@ -1,0 +1,13 @@
+python-virtualenv
+python-pip
+eclipse
+sublime-text-installer
+rails
+qemu
+g++
+monodevelop
+azure
+firefox
+vim-gtk
+inkscape
+gimp
