@@ -6,6 +6,9 @@ for line in $(cat repositories.txt)
 	do apt-add-repository "$line" -y
 done
 
+# Atualizando lista de pacotes
+apt-get update
+
 # Instalando os pacotes
 for line in $(cat packages.txt)
     do apt-get install "$line"  -y
