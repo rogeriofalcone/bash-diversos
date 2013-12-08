@@ -11,3 +11,7 @@ firefox
 vim-gtk
 inkscape
 gimp
+moka-icon-theme
+moka-icon-theme-dark
+moka-icon-theme-extras
+gnome-shell

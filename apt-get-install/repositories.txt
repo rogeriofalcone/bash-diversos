@@ -1,2 +1,3 @@
 ppa:otto-kesselgulasch/gimp
 ppa:webupd8team/sublime-text-3
+ppa:snwh/moka-icon-theme-daily
