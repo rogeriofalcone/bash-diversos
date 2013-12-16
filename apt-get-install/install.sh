@@ -13,3 +13,13 @@ apt-get update
 for line in $(cat packages.txt)
     do apt-get install "$line"  -y
 done 
+
+# Instalar o cordova
+npm install -g cordova
+npm install -g phonegap
+
+# Instalar ia32-libs	
+sudo apt-get install libc6:i386 lsb-core libncurses5:i386 libstdc++6:i386
+
+echo "export JAVA_HOME=/usr/lib/jvm/java-7-oracle/" >> ~/.profile
+echo "PATH=\"$PATH:/home/paulo/android-sdk/tools:/home/paulo/android-sdk/platform-tools\"" >> ~/.profile
