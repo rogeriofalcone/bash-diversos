@@ -9,7 +9,6 @@ gimp
 moka-icon-theme
 moka-icon-theme-dark
 moka-icon-theme-extras
-# gnome-shell
 nodejs
 npm
 oracle-java7-installer

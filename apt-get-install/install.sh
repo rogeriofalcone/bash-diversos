@@ -18,6 +18,15 @@ done
 npm install -g cordova
 npm install -g phonegap
 
+# Instalar módulos Python
+pip install django
+pip install flask
+pip install django-registration
+pip install django-south
+pip install imperavi
+pip install django-imperavi
+pip install django-sendfile 
+
 # Instalar ia32-libs	
 sudo apt-get install libc6:i386 lsb-core libncurses5:i386 libstdc++6:i386
 
