@@ -10,6 +10,9 @@ moka-icon-theme
 moka-icon-theme-dark
 moka-icon-theme-extras
 nodejs
+node
+nodejs-legacy
+cordova-cli
 npm
 oracle-java7-installer
 

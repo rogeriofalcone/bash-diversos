@@ -28,7 +28,7 @@ pip install django-imperavi
 pip install django-sendfile 
 
 # Instalar ia32-libs	
-sudo apt-get install libc6:i386 lsb-core libncurses5:i386 libstdc++6:i386
+sudo apt-get install libc6:i386 lsb-core libncurses5:i386 libstdc++6:i386 -y
 
 echo "export JAVA_HOME=/usr/lib/jvm/java-7-oracle/" >> ~/.profile
 echo "PATH=\"$PATH:/home/paulo/android-sdk/tools:/home/paulo/android-sdk/platform-tools\"" >> ~/.profile

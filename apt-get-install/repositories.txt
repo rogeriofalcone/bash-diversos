@@ -2,3 +2,4 @@ ppa:otto-kesselgulasch/gimp
 ppa:webupd8team/sublime-text-3
 ppa:snwh/moka-icon-theme-daily
 ppa:webupd8team/java
+ppa:cordova-ubuntu/ppa
