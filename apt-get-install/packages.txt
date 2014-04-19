@@ -14,5 +14,9 @@ node
 nodejs-legacy
 cordova-cli
 npm
+ubuntu-sdk
+qtcreator-plugin-ubuntu-cordova 
+qtcreator-plugin-ubuntu 
+qtcreator-plugin-ubuntu-cordova-common
 oracle-java7-installer
 
